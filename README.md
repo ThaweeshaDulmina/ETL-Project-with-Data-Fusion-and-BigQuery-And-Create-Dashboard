@@ -1,0 +1,2 @@
+# ETL-Project-with-Data-Fusion-and-BigQuery-And-Create-Dashboard
+Built an end-to-end ETL pipeline using Google Cloud Platform. Cleaned an employee dataset with Python and uploaded it to Google Cloud Storage. Used Google Cloud Data Fusion to extract, transform, and load the data into BigQuery. Finally, created an interactive dashboard in Looker Studio to visualize employee insights. 
